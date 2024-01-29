@@ -1,8 +1,8 @@
 import React from 'react'
 
-function  greet()  {
+function  Greet()  {
   return (
-    <div>welcom sharath </div>
+    <div>welcom sharath kumar  </div>
   )
 }
-export default greet;
+export default Greet;
