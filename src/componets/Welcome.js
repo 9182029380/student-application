@@ -2,7 +2,7 @@ import React from 'react'
 
 function  Welcome()  {
   return (
-    <div>hi everyone how are you all </div>
+    <div>hi everyone welcome to sharath repo </div>
   )
 }
 export default Welcome;
