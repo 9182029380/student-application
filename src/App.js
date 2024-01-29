@@ -1,12 +1,13 @@
 import React from 'react';
 import './App.css';
-import Greet from './componets/Greet';
+
+import Welcome from './componets/Welcome';
 
 
 function App() { 
   return (
     <div className="App">
-    <Greet/>
+    <Welcome/>
     </div>
 );
   }
